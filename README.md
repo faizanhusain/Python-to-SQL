@@ -1,1 +1,1 @@
-# Python-to-SQL
+In this project, I explored how to use sql in jupyter Notebook and leverage its power with python to analyze data more effectively.By integrating SQL with python in jupyter notebook, we can perform complex data analysis tasks, exicute SQL queries directly andgain valueable insights from our dataset.
